@@ -1,0 +1,8 @@
+.bg-dark {
+    background-color:rgb(121, 0, 0)!important;
+}
+.navbar-expand-sm .navbar-collapse {
+    display: flex!important;
+    flex-basis: auto;
+    font-size: 18px;
+}
